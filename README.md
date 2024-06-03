@@ -32,3 +32,8 @@ Candidates will be evaluated based on:
 #### Expected Time Commitment
 The task is expected to take approximately 3-4 hours. This estimate includes developing the core services, writing tests, and documentation. Candidates should aim for a balance between innovative solutions and practical implementation within this time frame.
 This test aims to assess the candidate's technical skills and their ability to deliver a functional, well-designed system in a realistic timeframe, mirroring real-world project constraints.
+
+### Diagram to help 
+
+![image](https://github.com/ambrosestartup/execution-market_data-task/assets/104560551/541c65e5-859d-400b-8273-79fdb2dbd725)
+
