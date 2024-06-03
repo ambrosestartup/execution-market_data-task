@@ -35,5 +35,6 @@ This test aims to assess the candidate's technical skills and their ability to d
 
 ### Diagram to help 
 
-![image](https://github.com/ambrosestartup/execution-market_data-task/assets/104560551/541c65e5-859d-400b-8273-79fdb2dbd725)
+![image](https://github.com/ambrosestartup/execution-market_data-task/assets/104560551/c3ad7006-15bb-4aa3-8664-6764cb8972bb)
+
 
